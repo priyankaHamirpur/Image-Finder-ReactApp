@@ -1,0 +1,12 @@
+.imageButton{   
+    justify-content: center;
+     margin-top:50px ;
+    padding: 10px; 
+    width: 200px;
+    background-color:#051c33;
+    color: white;
+    border-style: none;
+    border-radius: 5px;
+    font-size: 20px;
+    
+}
